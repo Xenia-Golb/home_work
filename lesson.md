@@ -42,4 +42,4 @@ test
 
 ## Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
-text branch 1!
+text branch 1! и конфликт с 4
