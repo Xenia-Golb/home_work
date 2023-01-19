@@ -43,3 +43,5 @@ text 3
 text branch 2
 ## Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+text branch 1! и конфликт с 4
